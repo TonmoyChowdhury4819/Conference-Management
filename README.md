@@ -1,5 +1,5 @@
-Conference Management System
-A Robust Conference Management Solution Built with Laravel
+                                                                                   **Conference Management System**
+                                                                           **A Robust Conference Management Solution Built with Laravel**
 
 This Conference Management System, powered by Laravel, offers a streamlined and efficient solution for managing conferences, from submission to publication. It provides a user-friendly interface for super admins, conference admins, authors, and reviewers, ensuring a seamless experience for all stakeholders.
 
